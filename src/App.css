@@ -58,7 +58,7 @@
 }
 .image:hover {
   cursor: pointer;
-  filter: brightness(1);
+  filter: invert(1);
 }
 
 @keyframes logo-spin {
